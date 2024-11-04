@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a trip planner**
+ 🔭 I’m currently working on **a transit trip planner**
  
- 🌱 I’m currently learning **Serverside + SQL**
+ 🌱 I’m currently learning **Serverside & SQL**
 
 ⚡ Fun fact **There are more stars in the universe than grains of sand on all of Earth’s beaches—around 200 billion trillion stars!**
 
