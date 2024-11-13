@@ -5,15 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Puneet+North!;" />
 </h1>
 
-<h3 align="center">An aspiring software developer from Vancouver 🇨🇦!</h3>
+<h3 align="center">An aspiring software developer from Vancouver 🇨🇦</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a transit trip planner**
+ 🔭 I’m currently working on **a transit trip planner!**
  
- 🌱 I’m currently learning **Serverside & SQL**
+ 🌱 I’m currently learning **Serverside & SQL.**
 
 ⚡ Fun fact **There are more stars in the universe than grains of sand on all of Earth’s beaches—around 200 billion trillion stars!**
 
