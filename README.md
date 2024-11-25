@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a transit trip planner**
+ 🔭 I’m currently working on **a transit trip planner.**
  
  🌱 I’m currently learning **Serverside & SQL.**
 
