@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **MindStream AI.**
  
- 🌱 I’m currently learning **Serverside & SQL.**
+ 🌱 I’m currently learning **Serverside & Databases.**
 
 ⚡ Fun fact **There are more stars in the universe than grains of sand on all of Earth’s beaches—around 200 billion trillion stars!**
 
