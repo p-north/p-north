@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MindStream AI.**
+ 🔭 I’m currently working on **Tensorflow Model.**
  
  🌱 I’m currently learning **Serverside & Databases.**
 
