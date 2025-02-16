@@ -40,9 +40,9 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,fastapi,c,cpp,firebase,mongodb,mysql,postgresql" /><br>
 </div>
 
-<h2 align="center">⚒️ Languages ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp" /> </div> <br>
-<h2 align="center">⚒️ Frameworks ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=react,mui,express,fastapi,nextjs" /> </div> <br>
-<h2 align="center">⚒️ Tools & Databases ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=vsCode,github,git,postman,docker" /> <img src="https://skillicons.dev/icons?i=figma,firebase,mongodb,mysql,postgresql" /> </div> <br>
+<h2 align="center">⚒️ Languages ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp" /> </div>
+h2 align="center">⚒️ Frameworks ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=react,mui,express,fastapi,nextjs" /> </div>
+<h2 align="center">⚒️ Tools & Databases ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=vsCode,github,git,postman,docker" /> <img src="https://skillicons.dev/icons?i=tailwind,figma,firebase,mongodb,mysql,postgresql" /> </div>
 
 <br/>
 <hr/>
