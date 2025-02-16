@@ -35,7 +35,7 @@
 
 <h2 align="center">⚒️ Languages ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,c,cpp,sql" /> </div>
 <h2 align="center">⚒️ Frameworks ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs" /> </div>
-<h2 align="center">⚒️ Tools & Databases ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=vsCode,github,git,postman,docker,tailwind,figma,linux,jest" /> <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgresql" /> </div>
+<h2 align="center">⚒️ Tools & Databases ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=vsCode,github,git,postman,docker,tailwind,figma,linux,jest" /> <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb,mysql,postgresql" /> </div>
 
 <br/>
 <hr/>
