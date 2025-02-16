@@ -32,13 +32,6 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,,vscode,github,figma,tailwind,git,postman,docker,nextjs" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,fastapi,c,cpp,firebase,mongodb,mysql,postgresql" /><br>
-</div>
 
 <h2 align="center">⚒️ Languages ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,c,cpp,sql" /> </div>
 <h2 align="center">⚒️ Frameworks ⚒️</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs" /> </div>
