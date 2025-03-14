@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **FastAPI Web App.**
+ 🔭 I’m currently working on a **Computer Networking Game.**
  
  🌱 I’m currently learning **Serverside & Databases.**
 
