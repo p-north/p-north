@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on a **Computer Networking Game.**
  
- 🌱 I’m currently learning **Serverside & Databases.**
+ 🌱 I’m currently learning **Cloud.**
 
 ⚡ Fun fact **There are more stars in the universe than grains of sand on all of Earth’s beaches—around 200 billion trillion stars!**
 
