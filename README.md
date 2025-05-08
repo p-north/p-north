@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **Computer Networking Game.**
+ 🔭 I’m currently volunteering @ CJSF & CSSS
  
  🌱 I’m currently learning **Cloud.**
 
