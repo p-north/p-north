@@ -28,6 +28,11 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+<div align="center">   
+  <a>
+    ![](https://komarev.com/ghpvc/?username=p-north&color=blue&style=for-the-badge&label=Views&abbreviated=true)
+  </a>    
+</div>
 
  <hr/>
 
