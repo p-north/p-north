@@ -30,7 +30,7 @@
 </div>
 <div align="center">   
   <a>
-    ![](https://komarev.com/ghpvc/?username=p-north&color=blue&style=for-the-badge&label=Views&abbreviated=true)
+    <img src="https://komarev.com/ghpvc/?username=p-north&color=blue&style=for-the-badge&label=Views&abbreviated=true">
   </a>    
 </div>
 
