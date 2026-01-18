@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently @ CJSF & CSSS
+ 🔭 I’m currently an SDE @ ECCC (Gov. of Canada)
  
  🌱 I’m currently learning **Cloud.**
 
