@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently an SDE @ ECCC (Gov. of Canada)
+ 🔭 I’m currently an Software Developer Co-op @ ECCC (Gov. of Canada)
  
  🌱 I’m currently learning **Cloud.**
 
