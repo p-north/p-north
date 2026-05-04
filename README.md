@@ -34,68 +34,73 @@
   </a>    
 </div>
 
- <hr/>
 
-## 🛠 Tech Stack
-
-### Languages
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" title="HTML5"/></a>
-  <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" title="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" title="TypeScript"/></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python"/></a>
-  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" title="C"/></a>
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" title="C++"/></a>
-  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" title="Java"/></a>
-</p>
-
-### Frameworks & Libraries
-<p>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React"/></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" title="TailwindCSS"/></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js"/></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" title="Express"/></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" title="FastAPI"/></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot" title="Spring Boot"/></a>
-</p>
-
-### Databases & Cloud
-<p>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" title="AWS"/></a>
-  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" title="Supabase"/></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" title="Firebase"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB"/></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" title="MySQL"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/></a>
-</p>
-
-### Tools & Environment
-<p>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" title="VS Code"/></a>
-  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="40" height="40" alt="Neovim" title="Neovim"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git"/></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker"/></a>
-  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux"/></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" title="Postman"/></a>
-  <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" width="40" height="40" alt="Jest" title="Jest"/></a>
-</p>
+<br/>
 
 ---
 
-## ⚡ Stats
+<br/>
+
+### `> languages`
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### `> frameworks`
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+### `> databases & cloud`
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### `> tools`
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+<br/>
+
+---
+
+<br/>
+
+### `> stats`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=p-north&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=p-north&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
+
+<img height="175" src="https://github-readme-stats-salesp07.vercel.app/api?username=p-north&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
+<img height="175" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=p-north&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+
+<br/><br/>
+
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=p-north&theme=tokyonight&border_radius=10" />
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=p-north&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak"/>
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
