@@ -36,29 +36,66 @@
 
  <hr/>
 
- | Languages | Frameworks | Databases | Tools |
-|-----------|------------|-----------|-------|
-| <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=typescript" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" /></a><a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" /></a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" /></a></p> | <p align="center"><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI" /></a><a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring Boot" /></a></p> | <p align="center"><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="36" height="36" alt="AWS" /></a><a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="36" height="36" alt="Supabase" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgresql" width="36" height="36" alt="PostgreSQL" /></a></p> | <p align="center"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VS Code" /></a><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="36" height="36" alt="Postman" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" /></a></a><a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux" /></a><a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest" width="36" height="36" alt="Jest" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=neovim" width="36" height="36" alt="Neovim" /></p> |
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" title="HTML5"/></a>
+  <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" title="TypeScript"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python"/></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" title="C"/></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" title="C++"/></a>
+  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" title="Java"/></a>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React"/></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" title="TailwindCSS"/></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" title="Express"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" title="FastAPI"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot" title="Spring Boot"/></a>
+</p>
+
+### Databases & Cloud
+<p>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" title="AWS"/></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" title="Supabase"/></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" title="Firebase"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" title="MySQL"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/></a>
+</p>
+
+### Tools & Environment
+<p>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" title="VS Code"/></a>
+  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="40" height="40" alt="Neovim" title="Neovim"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker"/></a>
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux"/></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" title="Postman"/></a>
+  <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest" width="40" height="40" alt="Jest" title="Jest"/></a>
+</p>
+
+---
+
+## ⚡ Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=p-north&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=p-north&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
+</div>
 
 <br/>
 
-<hr/>
-
-
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <!-- <img width=390 src="https://github-readme-streak-stats-p-north.vercel.app/?user=p-north&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=p-north&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=p-north&theme=tokyonight&hide_border=false" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=p-north&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=p-north&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak"/>
 </div>
-
-<br/><br/>
-
-<hr/>
 
