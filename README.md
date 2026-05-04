@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently an Software Developer Co-op @ ECCC (Gov. of Canada)
+ 🔭 I’m currently a SWE Intern @ Boeing
  
- 🌱 I’m currently learning **Cloud.**
+ 🌱 I’m currently learning **Distributed Systems & Cloud**
 
 ⚡ Fun fact **There are more stars in the universe than grains of sand on all of Earth’s beaches—around 200 billion trillion stars!**
 
